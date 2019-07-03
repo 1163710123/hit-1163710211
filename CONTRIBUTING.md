@@ -15,6 +15,7 @@ GitHub provides the Issue feature, which can be used to:
 + Raise a bug
 + Proposed functional improvement
 + Feedback experience
+
 This feature should not be used for:
 + Suggestions for revision (involving code signature and revision traceability issues)
 + Unfriendly speech
@@ -26,7 +27,7 @@ GitHub provides the ability to quickly edit files
 + Click the pencil icon in the upper right corner to modify it;
 + Fill in Commit changes related content (Title is required);
 + Submit your changes and wait for CI verification and administrator merge.
-If you need to submit a large number of edits at once, please continue reading the following
+**If you need to submit a large number of edits at once, please continue reading the following
 
 # Complete process
 1. Fork this project;
