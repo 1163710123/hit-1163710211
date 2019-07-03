@@ -8,3 +8,4 @@ Basic functions：
 + inventory management
 + support for scheduling goods between multiple warehouses
 + support the coexistence of wholesale and retail business
+
