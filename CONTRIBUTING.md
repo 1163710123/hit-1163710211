@@ -43,6 +43,7 @@ GitHub provides the ability to quickly edit files
 10. Wait for the administrator to handle and rebase your branch to the upstream master branch (if the upstream master branch has modifications).
 
 If necessary, you can git push -f to force the rebase branch to its own fork
+
 Never use git push -f to force push changes to the upstream
 
 ## Precautions
