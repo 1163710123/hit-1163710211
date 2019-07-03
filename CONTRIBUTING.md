@@ -27,6 +27,7 @@ GitHub provides the ability to quickly edit files
 + Click the pencil icon in the upper right corner to modify it;
 + Fill in Commit changes related content (Title is required);
 + Submit your changes and wait for CI verification and administrator merge.
+
 **If you need to submit a large number of edits at once, please continue reading the following
 
 # Complete process
@@ -40,6 +41,7 @@ GitHub provides the ability to quickly edit files
 8. Submit a pull request;
 9. Wait for CI verification (if you don't pass, repeat 5~7, GitHub will automatically update your pull request);
 10. Wait for the administrator to handle and rebase your branch to the upstream master branch (if the upstream master branch has modifications).
+
 If necessary, you can git push -f to force the rebase branch to its own fork
 Never use git push -f to force push changes to the upstream
 
